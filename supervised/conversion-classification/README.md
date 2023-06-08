@@ -1,4 +1,6 @@
-## the notebook name is "conversion_rate_final_mai.ipynb"
+## The notebook name is
+"conversion_rate_final_mai.ipynb"
+
 ## Company's Description 📇
 www.datascienceweekly.org is a famous newsletter curated by independent data scientists. Anyone can register his/her e-mail address on this website to receive weekly news about data science and its applications !
 
