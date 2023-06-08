@@ -12,4 +12,4 @@ in this project we will build a model able to estimate the weekly sales .we will
 ## Project 3 : Unsupervised machine learning
 
 **project name is Uber Pickups**
-we will two unsupervised algorithms (KMeans and DBScan ) to find hot zone  and describe it for a specific day/time of the week
+we will use two unsupervised algorithms (KMeans and DBScan ) to find hot zone  and describe it for a specific day/time of the week
