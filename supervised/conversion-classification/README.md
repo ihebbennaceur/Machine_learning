@@ -12,15 +12,15 @@ They designed a competition aiming at building a model that allows to predict th
 ## Goals 🎯
 The project can be cut into four steps :
 
-Part 1 : make an EDA and the preprocessings and train a baseline model with the file data_train.csv .
-Part 2 : improve your model's f1-score on your test set (you can try feature engineering, feature selection, regularization, non-linear models, hyperparameter optimization by grid search, etc...)
-Part 3 : Once you're satisfied with your model's score, you can use it to make some predictions with the file data_test.csv. You will have to dump the predictions into a .csv file that will be sent to Kaggle (actually, to your teacher/TA 🤓). You can make as many submissions as you want, feel free to try different models !
-Part 4 : Take some time to analyze your best model's parameters. Are there any lever for action that would help to improve the newsletter's conversion rate ? What recommendations would you make to the team ?
+**Part 1 : make an EDA and the preprocessings and train a baseline model with the file data_train.csv .**
+**Part 2 : improve your model's f1-score on your test set (you can try feature engineering, feature selection, regularization, non-linear models, hyperparameter optimization by grid search, etc...)**
+**Part 3 : Once you're satisfied with your model's score, you can use it to make some predictions with the file data_test.csv. You will have to dump the predictions into a .csv file that will be sent to Kaggle (actually, to your teacher/TA 🤓). You can make as many submissions as you want, feel free to try different models !**
+**Part 4 : Take some time to analyze your best model's parameters. Are there any lever for action that would help to improve the newsletter's conversion rate ? What recommendations would you make to the team ?**
 
 ## Deliverable 📬
 To complete this project, your team should:
 
-Create some relevant figures for EDA
-Train at least one model that predicts the conversions and evaluate its performances (f1, confusion matrices)
-Make at least one submission to the leaderboard
-Analyze your best model's parameters and try to make some recommendations to improve the conversion rate in the future
+**Create some relevant figures for EDA**
+**Train at least one model that predicts the conversions and evaluate its performances (f1, confusion matrices)**
+**Make at least one submission to the leaderboard**
+**Analyze your best model's parameters and try to make some recommendations to improve the conversion rate in the future**
