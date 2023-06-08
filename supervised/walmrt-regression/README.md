@@ -5,12 +5,18 @@ Walmart's marketing service has asked you to build a machine learning model able
 
 ## Goals
 **Part 1 : make an EDA and all the necessary preprocessings to prepare data for machine learning**
+
 **Part 2 : train a linear regression model (baseline)**
+
 **Part 3 : avoid overfitting by training a regularized regression model**
 
 # Deliverable 
 Create some visualizations
+
 Train at least one linear regression model on the dataset, that predicts the amount of weekly sales as a function of the other variables
+
 Assess the performances of the model by using a metric that is relevant for regression problems
+
 Interpret the coefficients of the model to identify what features are important for the prediction
+
 Train at least one model with regularization (Lasso or Ridge) to reduce overfitting
