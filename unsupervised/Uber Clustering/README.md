@@ -16,6 +16,7 @@ Therefore, Uber's data team would like to work on a project where their app woul
 Uber already has data about pickups in major cities. Your objective is to create algorithms that will determine where are the hot-zones that drivers should be in. Therefore you will:
 
 **Create an algorithm to find hot zones**
+
 **Visualize results on a nice dashboard**
 
 # Deliverable
@@ -23,5 +24,7 @@ Uber already has data about pickups in major cities. Your objective is to create
 To complete this project, your team should:
 
 Have a map with hot-zones using any python library (plotly or anything else).
+
 You should at least describe hot-zones per day of week.
+
 Compare results with at least two unsupervised algorithms like KMeans and DBScan.
