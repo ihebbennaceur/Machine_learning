@@ -30,3 +30,4 @@ To complete this project, your team should:
 **Make at least one submission to the leaderboard**
 
 **Analyze your best model's parameters and try to make some recommendations to improve the conversion rate in the future**
+video : https://share.vidyard.com/watch/UynTx3XVKnRzNkwc6twn2Y?
