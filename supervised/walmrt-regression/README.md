@@ -20,3 +20,5 @@ Assess the performances of the model by using a metric that is relevant for regr
 Interpret the coefficients of the model to identify what features are important for the prediction
 
 Train at least one model with regularization (Lasso or Ridge) to reduce overfitting
+
+video : https://share.vidyard.com/watch/bQhPXrUp2Ez9zGNhViNnsz?
