@@ -28,3 +28,5 @@ Have a map with hot-zones using any python library (plotly or anything else).
 You should at least describe hot-zones per day of week.
 
 Compare results with at least two unsupervised algorithms like KMeans and DBScan.
+
+video : https://share.vidyard.com/watch/k7AYKPEyUoHpyR6jjp4THE?
