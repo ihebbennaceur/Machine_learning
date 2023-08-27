@@ -29,4 +29,4 @@ You should at least describe hot-zones per day of week.
 
 Compare results with at least two unsupervised algorithms like KMeans and DBScan.
 
-video : https://share.vidyard.com/watch/k7AYKPEyUoHpyR6jjp4THE?
+video : https://share.vidyard.com/watch/XPjnw8VsQRxKsiY8JaUqRC??
